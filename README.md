@@ -14,7 +14,8 @@
 
 ## Usage
 
-  ```md
-    ![Screenshot of the webpage](assets/images/screenshot1.png)
+    ```md
+    ![alt text](assets/images/screenshot.png)
     ```
- https://daniferru.github.io/horiseon-first-challenge/
+
+https://daniferru.github.io/horiseon-first-challenge/
