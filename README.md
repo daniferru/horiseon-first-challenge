@@ -14,6 +14,6 @@
 
 ## Usage
 
-    ![Screenshot of the webpage](assets/images/screenshot1.png)
+![Screenshot of the webpage](assets/images/screenshot1.PNG)
 
 https://daniferru.github.io/horiseon-first-challenge/
